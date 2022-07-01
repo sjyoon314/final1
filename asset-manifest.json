@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/final1/static/js/main.edac821d.js",
+    "index.html": "/final1/index.html",
+    "main.edac821d.js.map": "/final1/static/js/main.edac821d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.edac821d.js"
+  ]
+}
